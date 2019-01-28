@@ -26,7 +26,7 @@ class Ui_MainDialog(object):
         self.label = QtWidgets.QLabel(MainDialog)
         self.label.setGeometry(QtCore.QRect(30, 10, 181, 41))
         font = QtGui.QFont()
-        font.setPointSize(18)
+        font.setPointSize(10)
         font.setBold(True)
         font.setWeight(75)
         self.label.setFont(font)
