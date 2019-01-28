@@ -37,7 +37,7 @@ class MainDialog(QDialog, mainUI.Ui_MainDialog):
                     df2 = pd.DataFrame(
                         data=[
                             [i, path, f'=HYPERLINK("{path}", "DirView")',
-                            filename, f'=HYPERLINK("{fullname}", "FileView")']
+                            filename, f'=HYPERLINK("file:/{fullname}", "FileView")']
                             ], columns=('no', 'directory', 'd_link', 'file', 'f_link'))
                     df = df.append(df2, ignore_index=True)
                     i += 1

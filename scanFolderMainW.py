@@ -6,7 +6,7 @@
 Author: Zetta Kim
 Last edited: 2019.01.26
 """
-import sys, mainUI
+import sys, mainUI_Win
 import os.path
 import pandas as pd
 from PyQt5.QtWidgets import QDialog, QFileDialog, QMessageBox, QPushButton, QApplication
