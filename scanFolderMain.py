@@ -1,4 +1,3 @@
-#!/usr/bin/python3
 # -*- coding: utf-8 -*-
 """
     특정 데렉토리 내 파일 리스트를 엑셀로 저장
@@ -43,11 +42,11 @@ class MainDialog(QDialog, mainUI.Ui_MainDialog):
                     i += 1
 
         df.to_excel('folder_scan.xlsx', sheet_name='Scan Result', index=False, header=True)
-        
+
         if dir_name != '':
             os.system("open " + 'folder_scan.xlsx') # macOS
         #     # os.system("start " + filename) # Windows
-    
+
     def about_buttonClicked(self):
         reply = QMessageBox.about(self, 'About', '   eXScan \n       v0.5\n\n Jan, 2019\n Zetta Kim')
 

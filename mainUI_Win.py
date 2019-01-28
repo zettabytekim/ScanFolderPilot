@@ -48,7 +48,7 @@ class Ui_MainDialog(object):
 
     def retranslateUi(self, MainDialog):
         _translate = QtCore.QCoreApplication.translate
-        MainDialog.setWindowTitle(_translate("MainDialog", "eXCan v0.1"))
+        MainDialog.setWindowTitle(_translate("MainDialog", "eXCan v0.5"))
         self.scan_pushButton.setText(_translate("MainDialog", "Scan Folder"))
         self.label.setText(_translate("MainDialog", "Scan Folder to Excel"))
         self.about_pushButton.setText(_translate("MainDialog", "About"))
