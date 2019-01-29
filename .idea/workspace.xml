@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c86c5e06-49ca-4d9c-add9-465e16b1f8b5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/ScanFolderPilot.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ScanFolderPilot.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/folder_scan.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/folder_scan.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scanFolderMainW.py" beforeDir="false" afterPath="$PROJECT_DIR$/scanFolderMainW.py" afterDir="false" />
     </list>
@@ -19,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scanFolderMainW.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-19">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="145">
+              <caret line="39" column="84" selection-start-line="39" selection-start-column="84" selection-end-line="39" selection-end-column="84" />
             </state>
           </provider>
         </entry>
@@ -28,7 +25,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scanFolderMain.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
+            <state relative-caret-position="760">
               <caret line="43" column="4" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
             </state>
           </provider>
@@ -74,16 +71,16 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="21" />
+    <option name="x" value="-1790" />
+    <option name="y" value="87" />
     <option name="width" value="1600" />
-    <option name="height" value="1014" />
+    <option name="height" value="1015" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -95,6 +92,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -182,14 +180,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="17" width="1280" height="811" extended-state="0" />
+    <frame x="-1816" y="70" width="1280" height="812" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24878837" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.24732825" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24695122" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -204,6 +202,20 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/scanFolderMainW.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="39" column="84" selection-start-line="39" selection-start-column="84" selection-end-line="39" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scanFolderMain.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="43" column="4" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/mainUI.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1178">
@@ -215,20 +227,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1064">
           <caret line="56" selection-start-line="56" selection-end-line="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scanFolderMain.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="43" column="4" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scanFolderMainW.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-19">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
