@@ -11,7 +11,7 @@ import os.path
 import pandas as pd
 from PyQt5.QtWidgets import QDialog, QFileDialog, QMessageBox, QPushButton, QApplication
 
-class MainDialog(QDialog, mainUI.Ui_MainDialog):
+class MainDialog(QDialog, mainUI_Win.Ui_MainDialog):
 
     def __init__(self):
         super().__init__()
